@@ -1,2 +1,2 @@
 # websiteLayout
-Html, css, js simple website with adaptation
+Html, css, js simple site with adaptation
